@@ -80,7 +80,7 @@ and sales encompassing specific date ranges. This data empowers managers with in
 ```
 From the project, I learned several important skills and concepts including:
 
-Technical Proficiency: You've acquired proficiency in Java programming, Java Swing, Jframe,
+Technical Proficiency: acquired proficiency in Java programming, Java Swing, Jframe,
  and MySQL database management, enhancing your ability to create robust applications.
 
 User Interface Design: Developing the user interface with Java Swing and Jframe has provided
@@ -89,7 +89,7 @@ you with hands-on experience in designing intuitive and user-friendly interfaces
 Database Integration: Working with MySQL has given you practical knowledge of database design,
  data storage, and retrieval, crucial for building data-driven applications.
 
-Inventory Management Concepts: You've deepened your understanding of inventory management
+Inventory Management Concepts:  deepened my understanding of inventory management
 principles, including categorization, stock control, product updates, and sales tracking.
 
 Validation and Error Handling: Implementing quantity validation and error messages demonstrates
@@ -104,10 +104,10 @@ zero stock scenarios has honed your problem-solving abilities.
 Project Management: Successfully completing this project signifies your capability to plan,
 execute, and deliver a comprehensive software solution.
 
-Business Implications: You've gained an appreciation for the impact of efficient inventory
+Business Implications:  gained an appreciation for the impact of efficient inventory
 management on business operations, efficiency, error reduction, and growth.
 
-Decision-Making: Your project's reporting and analytics capabilities underscore the importance
+Decision-Making: my project's reporting and analytics capabilities underscore the importance
 of data-driven decision-making for business success.
 ```
 
