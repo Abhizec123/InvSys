@@ -4,24 +4,26 @@
 ## ABOUT:
 
 ```
-So basically, it is a Desktop-Based Application that revolutionizes inventory control and sales management
- by merging Java, Swing, Jframe, and MySQL. It ensures efficient inventory management, real-time sales,
-and insightful data analysis, boosting business efficiency and informed decision-making for lasting growth.
+So basically, it is a Desktop-Based Application that revolutionizes inventory control and sales
+management by merging Java, Swing, Jframe, and MySQL. It ensures efficient inventory management,
+real-time sales,and insightful data analysis, boosting business efficiency and informed
+decision-making for lasting growth.
 ```
 
 ## NOTICE:
 
 ```
-1. Positive change the path for storing the pdf. You will find it in the "Sales.java" inside "save order
-and print Bill" button.
+1. Positive change the path for storing the pdf. You will find it in the "Sales.java" inside
+ "save order and print Bill" button.
 2. Databases need to be built for the same. Total tables used 5
 ```
 
 ## FEATURES & ADVANTAGES:
 
 ```
-1. **Database Architecture:** The system operates on a foundation of four principal tables - Category,
-Brand, Product, and Sales. These tables create an organized structure for efficient inventory data management.
+1. **Database Architecture:** The system operates on a foundation of four principal
+tables - Category, Brand, Product, and Sales. These tables create an organized structure
+ for efficient inventory data management.
 
 2. **Category and Brand Control:** Users enjoy the ease of introducing new categories and brands,
 providing structure to product organization and facilitating streamlined inventory handling.
@@ -118,4 +120,24 @@ of data-driven decision-making for business success.
 2. Customer Name should be unique
 3. No checkings are done for Phone Number
 ```
+
+## SCREENSHOTS:
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/9e442164-f152-47a8-beef-65fa834ba433)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/b2b8a52d-ea98-4656-9e6d-2f67d67c65e9)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/5ef14c19-6e0c-4b64-ac1d-c73c22ce8df8)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/04254ad6-1b27-41c5-ac2a-229f6644c186)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/96e2bf91-2a03-43fa-bf2f-35453ccf841b)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/4a50de0a-ee8b-4ef7-97cd-18480d00f8d4)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/96e86c33-e84a-45d7-be02-893759707c82)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/adab8b2e-109b-40b5-87eb-e6a9a4de3d9e)
+
+![image](https://github.com/Abhizec123/InvSys/assets/79994725/6e70bb3e-689c-4c2a-8910-44e31bc0482d)
 
